@@ -1,7 +1,8 @@
 # E-Commerce Kafka Simulation
-![Python Version](https://shields.io)
-![Apache Kafka](https://shields.io)
-![Docker](https://shields.io)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## Purpose
 Just a small project to get more familiar with Kafka
