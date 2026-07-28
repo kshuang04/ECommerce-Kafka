@@ -36,7 +36,7 @@ try:
         producer.produce(
             topic="orders",
             value=value,
-            on_delivery=transaction_report
+            callback=transaction_report
         )
 
         producer.poll(0)
